@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342832637219",
+    "firebase_url": "https://notes-vault-e0c2b-default-rtdb.firebaseio.com",
+    "project_id": "notes-vault-e0c2b",
+    "storage_bucket": "notes-vault-e0c2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342832637219:android:d0ab5d53bd245511f75896",
+        "android_client_info": {
+          "package_name": "com.example.notesvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342832637219-3c67i77sven8dc4mlcrbtjafaad2njns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ietx4YLeZgr0DqJ_Vh296A-FuH1WOQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342832637219-3c67i77sven8dc4mlcrbtjafaad2njns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
